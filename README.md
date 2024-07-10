@@ -21,7 +21,7 @@ Welcome to the React Data Management Application! This application allows you to
 - 💾**LocalStorage**: Web storage to save the application state.
 
 ### 🧑‍💻 Usage
-The hosted link of the website is you can use this website from this link
+The hosted link of the website is [Directory App](https://react-directory-blond.vercel.app/) you can use this website from this link
 
 ### 🏠 Main Application
 The main application (Maina) initializes the state and context for the data management functionality. It uses useReducer for state management and useEffect for persisting state to Local Storage.
